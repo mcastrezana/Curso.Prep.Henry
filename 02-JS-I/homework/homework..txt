@@ -1,0 +1,22 @@
+* Variables
+
+Son la forma en como los programadores le asignan un nombre a un valor para despues poder usarlo sin necesidad de
+tener que volver a escribir todo el valor, estas se pueden usar para guardar cualquier tipo de dato.
+
+* Strings
+
+Se utilizan para representar datos textuales.
+
+* Funciones (argumentos, `return`)
+
+Son un conjunto de instrucciones las cuales realizan una tarea o calculan algun valor, para que pueda ser una funcion
+debe de tener una entrada y devolver una salida.
+
+* Declaraciones `if`
+
+Es una estructura de control que se utiliza para tomar decisiones, primero se evalua una expresion y si da positivo se
+realizan las acciones relacionadas con el caso positivo.
+
+* Valores booleanos (`true`, `false`)
+
+Son operaciones que unicamente tienen dos posibles resultados (true y false)
