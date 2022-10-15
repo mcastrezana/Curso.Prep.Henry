@@ -208,7 +208,7 @@ function doWhile(numero) {
   }  
 }
 
-//Se entrega tarea
+//Homework
 
 // No modificar nada debajo de esta línea
 // --------------------------------
